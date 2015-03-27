@@ -14,3 +14,7 @@ html {
   background-position: center 10px;
   text-align: center;
 }
+img {
+  width: 100%;
+  display: block;
+}
